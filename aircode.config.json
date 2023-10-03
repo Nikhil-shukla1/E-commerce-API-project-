@@ -1,0 +1,10 @@
+{
+  "name": "E-commerce Rest api project",
+  "runtime": "node/v18",
+  "retion": "US",
+  "envs": [
+    "ACCESS_TOKEN_SECRET",
+    "STRIPE_KEY"
+  ],
+  "typescript": false
+}
